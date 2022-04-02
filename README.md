@@ -2,9 +2,9 @@ Neural Network JavaScript library for Coding Train tutorials
 
 ## Examples / Demos
 Here are some demos running directly in the browser:
-* [XOR problem](https://github.com/elvis-sande/perceptron-v2/examples/xor/)
-* [Handwritten digit recognition](https://github.com/elvis-sande/perceptron-v2/examples/mnist/)
-* [Doodle classifier](https://github.com/perceptron-v2/elvis-sande/examples/doodle_classification/)
+* [XOR problem](./examples/xor/)
+* [Handwritten digit recognition](./examples/mnist/)
+* [Doodle classifier](./examples/doodle_classification/)
 
 ## To-Do List
 
