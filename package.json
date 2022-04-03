@@ -1,14 +1,14 @@
 {
-  "name": "toy-neural-network",
+  "name": "perceptron-v2",
   "version": "0.0.1",
-  "description": "Toy Neural Network JavaScript library for Coding Train tutorials",
+  "description": "Toy Neural Network JavaScript library",
   "main": "",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodingTrain/Toy-Neural-Network-JS.git"
+    "url": "git+https://github.com/elvis-sande/perceptron-v2.git"
   },
   "keywords": [
     "neural",
@@ -18,12 +18,12 @@
     "education",
     "javascript"
   ],
-  "author": "The Coding Train community",
+  "author": "Elvis Sande",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shiffman/Toy-Neural-Network-JS/issues"
+    "url": "https://github.com/elvis-sande/perceptron-v2/issues"
   },
-  "homepage": "https://github.com/shiffman/Toy-Neural-Network-JS#readme",
+  "homepage": "https://github.com/elvis-sande/perceptron-v2#readme",
   "devDependencies": {
     "jest": "^22.1.4"
   }
