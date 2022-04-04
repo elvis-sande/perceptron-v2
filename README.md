@@ -2,9 +2,9 @@ Neural Network JavaScript library for Coding Train tutorials
 
 ## Examples / Demos
 Here are some demos running directly in the browser:
-* [XOR problem](./examples/xor/)
-* [Handwritten digit recognition](./examples/mnist/)
-* [Doodle classifier](./examples/doodle_classification/)
+* [XOR problem](./examples/xor/)  
+* [Handwritten digit recognition](./examples/mnist/)  
+* [Doodle classifier](./examples/doodle_classification/)  
 
 ## To-Do List
 
@@ -18,7 +18,7 @@ Here are some demos running directly in the browser:
 * [ ] Support for neuro-evolution
     * [ ] play flappy bird (many players at once).
     * [ ] play pong (many game simulations at once)
-    * [ ] steering sensors (a la Jabril's forrest project!)
+    * [ ] steering sensors ( Jabril's forrest project!)
 * [ ] Combine with ml5 / deeplearnjs
 
 ## Getting Started
